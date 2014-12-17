@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Beranda",
+		"link": "#/"
+	},
+	{
+		"name": "Cloud Foundry",
+		"link": "javascript:",
+		"target": "#cloudfoundry"
+	},
+	{
+		"name": "Arsitektur",
+		"link": "javascript:",
+		"target": "#architecture"
+	},
+	{
+		"name": "VCAP",
+		"link": "javascript:",
+		"target": "#vcap"
+	},
+	{
+		"name": "Hubungi Kami",
+		"link": "javascript:",
+		"target": "#contact-us"
+	}
+]
