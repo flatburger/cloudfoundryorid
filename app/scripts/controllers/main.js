@@ -18,7 +18,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Cloud Foundry',
     			'description': 'Cloud Foundry adalah sebuah Platform as Service (PaaS) Opensource yang dikembangkan oleh VMware dan bekerja sama dengan Apache License 2.0 yang dibuat dalam Ruby.',
-    			'faClass': 'icon-dice',
+    			'faClass': 'icon-cloud',
                 'link': '#cloudfoundry'
     		},
     		{
